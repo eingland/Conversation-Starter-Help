@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="generalStartersArray">
+        <item >Where did you grow up?</item>
+		<item >Do you have any pets?</item>
+		<item >Do you have any siblings?</item>
+		<item >Do you know what your name means?</item>
+		<item >What type of phone do you have?</item>
+		<item >What did you do this past weekend?</item>
+		<item >What are your plans for this weekend?</item>
+		<item >What do you like to do in your spare time?</item>
+		<item >What is the first thing you do when you wake up?</item>
+		<item >What is the last thing you do before you go to sleep?</item>
+		<item >What is your middle name?</item>
+		<item >What was the last thing you purchased?</item>
+		<item >What is your favorite holiday?</item>
+		<item >What is your favorite day of the week?</item>
+		<item >If you could meet anyone in history, who would it be?</item>
+		<item >What do you like to do to relax?</item>
+		<item >Are you a saver or a spender?</item>
+		<item >Do you play any instruments?</item>
+		<item >What was your favorite childrens book?</item>
+		<item >What is your first childhood memory?</item>
+		<item >What type of kid were you?</item>
+		<item >What is one thing you miss about being a kid?</item>
+		<item >What did you want to grow up to be when you were younger?</item>
+		<item >Who do you look up to?</item>
+		<item >What are you scared of?</item>
+		<item >What is the best piece of advice you\'ve received?</item>
+		<item >What do your parents do for a living?</item>
+		<item >What is your biggest regret?</item>
+		<item >What is your most embarrassing moment?</item>
+		<item >What is the craziest thing you\'ve ever done?</item>
+		<item >What are some of your short-term goals?</item>
+		<item >What are some of your long-term goals?</item>
+		<item >Do you sleep with a stuffed animal?</item>
+		<item >Tell me about your first car.</item>
+		<item >Do you drink coffee or tea?</item>
+		<item >If you could have any super power, what would it be?</item>
+		<item >If you were stranded on a deserted island and you could have only 1 item, what would it be?</item>
+		<item >Do you play video games?</item>
+		<item >Do you believe people are inherently good?</item>
+		<item >How often do you shower?</item>
+		<item >What is your favorite board game?</item>
+		<item >What is your favorite charity?</item>
+		<item >Have you ever gotten a speeding ticket?</item>
+		<item >Do you prefer cats or dogs?</item>
+		<item >Would you prefer to live in the city or a rural area?</item>
+		<item >What is your favorite season?</item>
+		<item >Do you speak any other languages?</item>
+		<item >Have you ever cried because you were so happy?</item>
+		<item >What is the best thing that happened to you during the past week?</item>
+		<item >What is the worst thing that happened to you during the past week?</item>
+		<item >Do you sing in the shower?</item>
+		<item >What is the most valuable thing that you own?</item>
+		<item >What would you do if you only had 24 hours left to live?</item>
+		<item >Who is your favorite actor?</item>
+		<item >What is your favorite movie of all time?</item>
+		<item >What was the worst movie you\'ve ever seen?</item>
+		<item >What is your favorite TV show?</item>
+		<item >What was the last movie you\'ve seen?</item>
+		<item >What type of music do you like to listen to?</item>
+		<item >Who is your favorite music artist?</item>
+		<item >What was the last book you read?</item>
+		<item >Would you rather be poor and work at a job you love or be rich and work at a job you hate?</item>
+		<item >Would you rather take an ice cold shower and be clean or not shower at all?</item>
+		<item >Would you rather be tall and fat or short and well built?</item>
+		<item >Would you rather be blind or deaf?</item>
+		<item >Would you rather have your flight delayed by 8 hours or lose your luggage?</item>
+		<item >Would you rather be homeless or live without family and friends?</item>
+		<item >Would you rather be very short or very tall?</item>
+		<item >Would you rather be the worst player on the best team or the best player on a great team?</item>
+		<item >Would you rather give out bad advice or receive bad advice?</item>
+		<item >Would you rather never play or play but always lose?</item>
+		<item >Would you rather be really hairy or completely bald?</item>
+		<item >Would you rather be in your pajamas all day or in a suit all day?</item>
+		<item >Would you rather go without the internet or a car for a month?</item>
+		<item >Would you rather eat healthy or exercise regularly?</item>
+		<item >Would you rather have to sit all day or stand all day?</item>
+		<item >Would you rather be rich or be poor and find true love?</item>
+		<item >Would you rather super strong or super fast?</item>
+		<item >Would you rather be the most popular kid in school or the smartest kid in school?</item>
+		<item >Would you rather be stuck in a house with someone you hate or be stuck in a house alone?</item>
+		<item >Would you rather lose half your hair or lose half your hearing?</item>
+		<item >Would you rather drink a cup of spoiled milk or pee your pants in public?</item>
+		<item >Would you rather go to jail for a year or live in your car for a year?</item>
+		<item >Would you rather work really hard at an interesting job or slack off at a boring job?</item>
+		<item >What was your favorite childhood toy?</item>
+		<item >If you had to live in another country, which one would you choose?</item>
+		<item >If you could only eat one food, and nothing else, for three days in a row, what would it be?</item>
+		<item >What three words best describe you?</item>
+		<item >What’s the one thing you’d like to be remembered for?</item>
+		<item >If you had more time, what hobby would you like to pursue?</item>
+		<item >If you could change one thing about your personality, what would it be?</item>
+		<item >What’s your idea of a perfect night out?</item>
+		<item >Describe how you’d like your life to be five years from now. Ten years from now.</item>
+		<item >When was the last time you lost your temper?</item>
+		<item >What percentage of the time are you comfortable with yourself?</item>
+		<item >What stresses you out the most?</item>
+		<item >What was your most embarrassing moment?</item>
+		<item >Admit your favorite guilty pleasure.</item>
+		<item >What are your three main goals in life?</item>
+		<item >Name five things you can’t live without.</item>
+		<item >Name your worst pet peeve. Are you ever guilty of it yourself?</item>
+		<item >Would you ever want to know the future? Why or why not?</item>
+		<item >If you could go back in time and relive one day in your life, which day would you choose and why?</item>
+		<item >If you could be the parent of one famous person, who would you want it to be and why?</item>
+		<item >What was the last thing you regret buying?</item>
+		<item >If you had a chance to bring one person back from the dead, who would it be and why?</item>
+		<item >What three adjectives might other people use to describe your personality?</item>
+		<item >If you saw someone shoplifting, what would you do?</item>
+		<item >If you could be invisible for a day, what would you do?</item>
+		<item >How’s your [the day of the week] been?</item>
+		<item >What’s happened for you today?</item>
+		<item >How was your trip?</item>
+		<item >How’d you sleep last night?</item>
+		<item >What do you think of that book?</item>
+		<item >You’re flowers are looking lovely.</item>
+		<item >I think we ran into each other at the trade event last month.</item> 
+		<item >Did we meet last year at Church?</item>
+		<item >How’s your Christmas preparations going?</item> 
+		<item >How’d the New Year go for you?</item>
+		<item >You look like a [teacher/fashion designer/entrepreneur/some noble profession].</item> 
+		<item >You seem like a [kind/hard working/problem solving/positive personality trait] person. I like that.</item> 
+		<item >You look like a [outgoing/talkative/friendly/people-magnetic trait] person. I’ll talk to you!</item> 
+		<item >I’m curious. Would your friends say you’re an [outgoing/understanding/open/positive personality trait] person?</item> 
+		<item >I like your [necklace/shirt/hair/personal trait or item]. I bet that says a lot about your personality.</item> 
+		<item >You guys know each from work?</item> 
+		<item >You guys look like you’ve been friends since school.</item> 
+		<item >You guys spending the night out together?</item> 
+		<item >What’s hot in your life at the moment?</item> 
+		<item >What hobbies are taking up your time?</item> 
+		<item >What do you for fun?</item> 
+		<item >What have you been doing in your time off recently?</item> 
+		<item >What’s the first thing you notice about a person?</item> 
+		<item >In your opinion, what makes a good first impression?</item> 
+		<item >What countries have you been to?</item> 
+		<item >Where would you like to go?</item> 
+		<item >If you wrote a book, what would it be about?</item> 
+		<item >What would you do if [he/the US President/a known person] showed up right now?</item> 
+		<item >I wonder what your DJ name would be?</item> 
+		<item >Have you ever [been to Australia/seen a monkey acting human/something unusually interesting]?</item> 
+		<item >What’s the last thing you purchased online?</item> 
+		<item >What movies have you seen lately?</item> 
+		<item >What’s on your music playlist at the moment?</item> 
+		<item >Watched any good shows or movies recently?</item> 
+		<item >What book are you currently reading?</item> 
+		<item >Last time we talked, you were… What happened?</item> 
+		<item >How’s your new job coming along?</item> 
+		<item >Who won the game of golf you said you had last time we talked?</item> 
+		<item >Hello, how are you?</item> 
+		<item >Hi, what have you been up to since I last saw you?</item> 
+		<item >Good to finally meet you, how have you been?</item> 
+		<item >What line of work are you in?</item> 
+		<item >Do you have kids?</item> 
+		<item >Where are you from?</item> 
+		<item >Where did you grow up?</item> 
+		<item >Hey, crazy weather we’ve been having.</item> 
+		<item >Hi, good to see you again.  Hey I like your jacket/bag/shoes etc</item> 
+		<item >You are stuck on a deserted Island, and you can only take 3 things.  What would they be?</item> 
+		<item >You can only eat 5 different foods for the rest of your life, what are they?</item> 
+		<item >You can only listen to 3 music albums for the rest of your life, what are they?</item> 
+		<item >You are stuck in a cabin for 2 years, what 5 movies would you take with you?</item> 
+		<item >If you could pick anyone, which three people would you invite to your dinner party?</item> 
+		<item >If your life was made into a movie, what would it be called?</item> 
+		<item >If you wrote a book, what would it be about?</item>
+		<item >Your dog is so cute! What kind is it?</item> 
+		<item >Is this seat taken?</item> 
+		<item >Great shoes!</item> 
+		<item >Did you grow up here?</item> 
+		<item >How long have you lived here?</item> 
+	</string-array>
+		
+    <string-array name="thoughtfulStartersArray">
+    	<item >When you were a kid, what did you want to be when you grew up?</item>
+		<item >Are you a person who does their duty or forges their own path?</item>
+		<item >I’ve been asking a few people this and want your opinion because you seem like an intelligent person: is it more important to be respected or loved?</item>
+		<item >What do you like about this [music/event/holiday/anything].</item>
+		<item >How does this [music/event/holiday/almost anything] make you feel?</item>
+		<item >What were the highs and lows of your day, today?</item>
+		<item >What’s something you regret?</item>
+		<item >What one thing would you change in your life at the moment?</item>
+		<item >If you could go back in time, what one thing would you change?</item>
+		<item >What gives you the greatest joy in life?</item>
+		<item >What makes you the happiest?</item>
+		<item >If you’re about to die, what do you need to have done to be fulfilled?</item>
+		<item >If you had a crystal ball that could tell you the truth about any one thing you wished to know about yourself, life, the future, or anything else, what would you want to know?</item>
+		<item >What\'s worse&#8230; having expectations that are too high, or having no expectations at all?</item>
+		<item >What is the most important invention or innovation that has happened during your life-time?</item>
+		<item >How would you spend your ideal day?</item>
+		<item >What, if anything, is too serious to be joked about?</item>
+		<item >If you were God for a day, what would you do?</item>
+		<item >What three things you regret not learning to do?</item>
+		<item >Is there anything you would willingly give your life for?</item>
+		<item >If you could re-live a day of your life again, which would it be and why?</item>
+		<item >Do you believe in luck?</item>
+		<item >If you were to be remembered for one thing, what would you like it to be?</item>
+		<item >If you were guaranteed honest responses to any three questions, whom would you question, and what would you ask them?</item>
+		<item >What do people often misunderstand about you?</item>
+		<item >If you could eliminate one crime, what would it be?</item>
+		<item >What’s the one defining moment of your life so far?</item>
+		<item >What’s one thing you most want to do?</item>
+		<item >What three words best describe you?</item>
+		<item >What’s something your friends don’t even know about you?</item>
+    </string-array>
+    
+    <string-array name="educationStartersArray">
+        <item >Where did you go to school?</item>
+        <item >Were you the class clown or teacher\'s pet?</item>
+        <item >What is your favorite subject?</item>
+        <item >What do you do for a living?</item>
+		<item >What is your least favorite subject?</item>
+		<item >If you had $10 million, would you still be going to school?</item>
+		<item >What\'s the first thing you do after school?</item>
+		<item >If you had to give every human being one quality, what would it be and why?</item>
+		<item >Do you have any recurring dreams? Describe them?</item>
+		<item >What is the meanest thing someone could say to you?</item>
+		<item >If you could be a famous athlete, actor, writer or musician which would you choose and why?</item>
+		<item >If you were invisible where would you go and what would you do?</item>
+		<item >If your life was made into a movie, who would play you? why?</item>
+		<item >If you could invent one thing what would it be?</item>
+		<item >What is the greatest song ever written?</item>
+		<item >Do you believe in heaven? What does yours look like? Is it different for everyone?</item>
+		<item >What is the most important quality for a boss to have?</item>
+		<item >If you could know one thing about the future, what would it be?</item>
+		<item >How do you choose your friends?</item>
+		<item >What is the first thing you notice about a person?</item>
+		<item >What do you think is the biggest problem in the United States and Why?</item>
+		<item >Describe the most beautiful thing you have ever seen.</item>
+		<item >What would the cover of your autobiography look like if it could not be a picture of you or your family?</item>
+		<item >If you could trade places with anyone in the world who would it be and why? How about someone in your family?</item>
+    </string-array>
+    
+    <string-array name="factStartersArray">
+        <item >Did you know there are no poisonous snakes in Maine?</item>
+        <item >Did you know the largest man-made lake in the U.S. is Lake Mead, created by Hoover Dam?</item>
+        <item >Did you know the human eye blinks an average of 4,200,000 times a year?</item>
+        <item >Did you know the largest meteorite crater in the world is in Winslow, Arizona?</item>
+        <item >Did you know the first coast-to-coast telephone line was established in 1914?</item>
+        <item >Did you know the highest temperature produced in a laboratory was 920,000,000 F (511,000,000 C) at the Tokamak Fusion Test Reactor in Princeton, NJ, USA?</item>
+        <item >Did you know the hottest planet in the solar system is Venus, with an estimated surface temperature of 864 F (462 C)?</item>
+        <item >Did you know the ears of a cricket are located on the front legs, just below the knee?</item>
+        <item >Did you know Velcro was invented by a Swiss guy who was inspired by the way burrs attached to clothing?</item>
+        <item >Did you know knowledge is growing so fast that ninety per cent of what we will know in fifty years time, will be discovered in those fifty years?</item>
+        <item >Did you know by raising your legs slowly and laying on your back, you can\'t sink in quicksand?</item>
+        <item >Did you know ten minutes of one hurricane contains enough energy to match the nuclear stockpiles of the world?</item>
+        <item >Did you know Lake Baikal is the deepest lake in the world?</item>
+        <item >Did you know the moon is one million times drier than the Gobi Desert?</item>
+        <item >Did you know Hawaii is moving toward Japan 4 inches every year?</item>
+        <item >Did you know starfish don\'t have brains?</item>
+        <item >Did you know the average person falls asleep in seven minutes?</item>
+        <item >Did you know shrimp\'s hearts are in their heads?</item>
+        <item >Did you know emus and kangaroos cannot walk backwards?</item>
+        <item >Did you know everyone\'s tongue print is different?</item>
+        <item >Did you know sharks are immune to cancer?</item>
+        <item >Did you know a mosquito has 47 teeth?</item>
+        <item >Did you know a cockroach can live for several weeks without its head?</item>
+        <item >Did you know ants do not sleep?</item>
+        <item >Did you know the average person has 100,000 hairs on his/her head?</item>
+        <item >Did you know the common goldfish is the only animal that can see both infra-red and ultra-violet light?</item>
+        <item >Did you know it\'s impossible to sneeze with your eyes open?</item>
+        <item >Did you know almonds are members of the peach family?</item>
+		<item >Did you know the symbol on the "pound" key (#) is called an octothorpe?</item> 
+		<item >Did you know the dot over the letter \'i\' is called a tittle?</item>
+		<item >Did you know an ostrich\'s eye is bigger than its brain?</item>
+		<item >Did you know tigers have striped skin, not just striped fur?</item> 
+		<item >Did you know the muzzle of a lion is like a fingerprint no two lions have the same pattern of whiskers?</item> 
+		<item >Did you know dueling is legal in Paraguay as long as both parties are registered blood donors?</item> 
+		<item >Did you know it\'s impossible to sneeze with your eyes open?</item> 
+		<item >Did you know the only 15 letter word that can be spelled without repeating a letter is uncopyrightable?</item>  
+		<item >Did you know emus and kangaroos cannot walk backwards, and are on the Australian coat of arms for that reason?</item> 
+		<item >Did you know cats have over one hundred vocal sounds, while dogs only have about ten?</item> 
+		<item >Did you know the word "Checkmate" in chess comes from the Persian phrase "Shah Mat," which means "the king is dead"?</item>  
+		<item >Did you know a snail can sleep for three years?</item>  
+		<item >Did you know babies are born without kneecaps?</item>   
+		<item >Did you know February 1865 is the only month in recorded history not to have a full moon?</item>  
+		<item >Did you know if the population of China walked past you in single file, the line would never end because of the rate of reproduction?</item>   
+		<item >Did you know Leonardo DiVinci invented the scissors?</item>  
+		<item >Did you know our eyes are always the same size from birth, but our nose and ears never stop growing?</item>   
+		<item >Did you know Shakespeare invented the word \'assassination\' and \'bump\'?</item>  
+		<item >Did you know TYPEWRITER is the longest word that can be made using the letters only on one row of the keyboard?</item>   
+		<item >Did you know your stomach has to produce a new layer of mucus every two week otherwise it will digest itself?</item>
+		<item >Did you know that crocodiles never outgrow the pool in which they live?</item>
+		<item >Did you know Thirty-five percent of the people who use personal ads for dating are already married?</item>
+		<item >Did you know it is impossible to lick your elbow?</item>
+		<item >Did you know a crocodile can\'t stick it\'s tongue out?</item>
+		<item >Did you know a shrimp\'s heart is in their head?</item>
+		<item >Did you know people say "Bless you" when you sneeze because when you sneeze, your heart stops for a milli-second?</item>
+		<item >Did you know it is physically impossible for pigs to look up into the sky?</item>
+		<item >Did you know on average, a human being will have sex more than 3,000 times and spend two weeks kissing in their lifetime?</item>
+		<item >Did you know more than 50% of the people in the world have never made or received a telephone call?</item>
+		<item >Did you know the "sixth sick sheik's sixth sheep's sick" is said to be the toughest tongue twister in the English language?</item>
+		<item >Did you know rats multiply so quickly that in 18 months, two rats could have over a million descendants?</item>
+		<item >Did you know wearing headphones for just an hour will increase the bacteria in your ear by 700 times?</item>
+		<item >Did you know in every episode of Seinfeld there is a Superman somewhere?</item>
+		<item >Did you know the cigarette lighter was invented before the match?</item>
+		<item >Did you know a duck\'s quack doesn\'t echo, and no one knows why?</item>
+		<item >Did you know 23% of all photocopier faults worldwide are caused by people sitting on them and photocopying their buttocks?</item>
+		<item >Did you know in the course of an average lifetime you will, while sleeping, eat 70 assorted insects and 10 spiders?</item>
+		<item >Did you know most lipstick contains fish scales?</item>
+		<item >Did you know the king of hearts is the only king without a mustache?</item>
+		<item >Did you know Venus is the only planet that rotates clockwise?</item>
+		<item >Did you know Apples, not caffeine, are more efficient at waking you up in the morning?</item>
+		<item >Did you know the plastic things on the end of shoelaces are called aglets?</item>
+		<item >Did you know the first owner of the Marlboro Company died of lung cancer?</item>
+		<item >Did you know Pearls melt in vinegar?</item>
+		<item >Did you know it is possible to lead a cow upstairs but not downstairs?</item>
+    </string-array>
+    
+    <string-array name="funnyStartersArray">
+    	<item >Why is it that when someone tells you that there’s billions of stars in the universe, you believe them. But if they tell you there’s wet paint somewhere you have to touch it?</item>
+		<item >How can there be self-help “groups”?</item>
+		<item >Did you ever notice that if you blow in a dogs face it goes mad, yet when you take him on a car ride he sticks his head straight out the window?</item>
+		<item >If love is blind, why is lingerie so popular?</item>
+		<item >When cheese gets its picture taken, what does it say?</item>
+		<item >Why isn’t the number 11 pronounced onety one?</item>
+		<item >If it’s true that we are here to help others, then what exactly are the others here for?</item>
+		<item >Ever wonder what the speed of lightning would be if it didn’t zigzag?</item>
+		<item >Last night I played a blank tape at full blast. The mime next door went nuts.</item>
+		<item >Whatever happened to Preparations A through G?</item>
+		<item >If 4 out of 5 people suffer from diarrhea does that mean the fifth one enjoys it?</item>
+		<item >Have you ever imagined a world with no hypothetical situations?</item>
+		<item >How do they get the deer to cross at that yellow road sign?</item>
+		<item >What was the best thing before sliced bread?</item>
+		<item >Do you realize how many holes there could be if people would just take the time to take the dirt out of them?</item>
+		<item >If one synchronized swimmer drowns, do the rest drown too?</item>
+		<item >How did the man who invented cottage cheese know he was done?</item>
+		<item >Why is there an expiration date on sour cream?</item>
+		<item >How did a fool and his money get together?</item>
+		<item >If you try to fail, and succeed, which have you done?</item>
+		<item >Can you get cavities in your dentures from using too much artificial sweetner?</item>
+		<item >Whose cruel idea was it for the word “Lisp” to have a “S” in it?</item>
+		<item >If you were in a circus, what would your job be?</item>
+		<item >When cheese gets its picture taken, what does it say?</item>
+		<item >Why isn\'t the number 11 pronounced onety one?</item>
+		<item >If man evolved from monkeys and apes, why do we still have monkeys and apes?</item>
+		<item >If vegetarians eat vegetables, what do humanitarians eat?</item>
+		<item >The more you study, the more you know. The more you know, the more you forget. The more you forget, the less you know&#8230; so why study?</item>
+		<item >If a man with multiple personality disorder threatens to kill himself, is it considered a hostage situation?</item>
+		<item >Why do they put up pictures of criminals at the post office? Are we supposed to write to these people?</item>
+		<item >Why shortcut to cooking is a bad idea?</item>
+		<item >How you flunked in your favorite subject?</item>
+		<item >Things you would like to invent some day.</item>
+		<item >If you had a nickel for every time you got a bad advice, you would be rich.</item>
+		<item >What do you think about laissez faire capitalism?</item>
+		<item >Do you know any good conversation starters?</item>
+		<item >What do you wanna be when you grow up?</item>
+		<item >Are you a good girl/ nice guy or a bad girl/ bad boy?</item>
+		<item >What do you think about raising ostriches?</item>
+		<item >Do you have any food with you? I’m hungry!</item>
+		<item >Heard any good jokes lately?</item>
+		<item >Do you think good girls go to Heaven?</item>
+		<item >What do you think you were in a past life?</item>
+		<item >What was the last stupid thing you did?</item>
+		<item >What do you have a weak spot for?</item>
+		<item >What’s your opinion about black nails on men?</item>
+		<item >What did you wanna be when you were 5?</item>
+		<item >What’s your favorite color?</item>
+		<item >What’s the yuckiest food you ever tasted?</item>
+		<item >What do you do when you’re home alone and the power goes out?</item>
+		<item >If you could, what superhero would you want to be?</item>
+		<item >Read any scandalous news lately?</item>
+		<item >What’s the best present you’ve ever received?</item>
+    </string-array>
+    
+    <string-array name="partyStartersArray">
+		<item >Looks like a great drink. What is it?</item>
+		<item >I love this place because it\’s got great energy.</item>
+		<item >Where are you from?</item> 
+		<item >This might seem a little weird, but I like your posture. It makes you stand out nicely.</item> 
+		<item >Nice shirt. Where did you get it?</item> 
+		<item >I love your style!</item>
+		<item >It\’s so hot today.</item>
+		<item >The great sun is burning this afternoon.</item> 
+		<item >It’s freezing! Do you know the temperature?</item>
+		<item >I don’t know anyone around here so I thought I’d come talk to you.</item>
+		<item >I\’m a little nervous talking with strangers, but I just had to come say hi.</item> 
+		<item >I know no one here so I thought I’d introduce myself to you.</item>
+		<item >I\’m out meeting new, interesting people tonight. Mind if we chat for a minute?</item> 
+		<item >You guys look like you’re having fun. That’s so cool that I just had to come talk to you.</item> 
+		<item >I had to come talk to you because your shirt made me laugh.</item>
+		<item >What about the game last night!</item>
+		<item >[Sports Team] aren’t doing so well this season.</item> 
+		<item >Do you know [the host\'s name]?</item> 
+		<item >What’d you get up to earlier today?</item> 
+		<item >I love this party. People are just having fun. Are you having fun?</item> 
+		<item >This is an awesome night. How’s your night been?</item> 
+		<item >The people here are great and add to the fun. Having fun here?</item> 
+		<item >I’m trying to settle a bet with a friend. How many oceans are there in the world?</item> 
+		<item >Can you help me open this bottle?</item> 
+		<item >What’s your favourite midnight snack?</item> 
+		<item >What was the worst purchase you ever made?</item> 
+		<item >What did you like best about high school?</item> 
+		<item >What reality show would you go on and why?</item> 
+		<item >What is the most embarrassing music album you have in your collection?</item> 
+		<item >Have you traveled much?  Where? What was it like?</item> 
+		<item >Which country would like to visit?</item> 
+		<item >Do you have any brothers or sisters?  Younger or older?</item> 
+		<item >Who is the most famous person you have met?</item> 
+		<item >Do you ever have breakfast foods for snacks?</item>
+		<item >What TV shows do you enjoy?</item> 
+		<item >What’s the one movie you watch over and over?</item> 
+		<item >What type of music do you like?</item> 
+		<item >What TV shows/movies do watch?</item> 
+		<item >How do you typically enjoy the weekends?</item> 
+		<item >What sports do you play or follow?</item> 
+		<item >What’s your favourite hobby?</item> 
+		<item >Do you have any pets?</item> 
+		<item >Are you a cat or dog person?</item> 
+		<item >What’s your favourite song of all time?</item> 
+		<item >What was your first concert?</item>
+		<item >How often do you exercise?</item>
+    </string-array>
+    
+    <string-array name="relationshipStartersArray">
+	    <item >What is the first think you notice about a guy or girl?</item>
+		<item >Have you ever been in love?</item>
+		<item >Do you believe in soul mates?</item>
+		<item >What are your turn offs?</item>
+		<item >Do you believe in love at first sight?</item>
+		<item >Do you prefer short hair or long hair on a guy/girl?</item>
+		<item >What do you look for in a guy/girl?</item>
+		<item >Who was the last person you called?</item>
+		<item >Would you rather be rich and never find true love or be poor and find true love?</item>
+		<item >Who do you look up to?</item>
+		<item >Where do you see yourself 5 years from now?</item>
+		<item >What are you scared of?</item>
+		<item >What is the best piece of advice you\'ve received?</item>
+		<item >What do your parents do for a living?</item>
+		<item >What is your biggest regret?</item>
+		<item >What is your most embarrassing moment?</item>
+		<item >What is the craziest thing you\'ve ever done?</item>
+		<item >What are some of your short-term goals?</item>
+		<item >What are some of your long-term goals?</item>
+		<item >How old do you believe a child should be before he/she can date?</item>
+		<item >Does chemistry happen immediately, or does it build over time?</item>
+		<item >Which characteristic could you live without in a life-long partner: sexuality, intelligence, or financial stability?</item>
+		<item >Would you rather dump someone else or be the person getting dumped?</item>
+		<item >Would you rather be rich and ugly or poor and good looking?</item>
+		<item >Would you rather be ugly and marry a good looking person or be good looking and marry an ugly person?</item>
+		<item >What’s the one defining moment of your life so far?</item>
+		<item >What’s one thing you most want to do?</item>
+		<item >What three words best describe you?</item>
+		<item >What’s something your friends don’t even know about you?</item>
+		<item >How do you know when you\'re in love?</item>
+		<item >Who would you choose to be shipwrecked on a desert island with?</item>
+		<item >What is your idea of a perfect romantic evening?</item>
+		<item >What do you most admire about our [family/home/relationship/something with positive qualities]?</item>
+		<item >What’s one thing you’ve wanted to tell me, but haven’t?</item>
+		<item >I like how you smile when I come home from work.</item>
+		<item >In your dream house, what one room must you have?</item>
+		<item >What’s a memory between us that stands out for you?</item>
+		<item >What does this [flower/meal/atmosphere/something in the environment] remind you of?</item>
+		<item >What three values do you most want our children to carry on throughout life?</item>
+		<item >What principles do you want our children to live by?</item>
+		<item >How do you want our children to best live life?</item>
+		<item >If you happen to leave Earth before I do, how would you like me to remember you?</item>
+		<item >Ignoring your criminal history, what’s the baddest thing you’ve done?</item>
+		<item >What’s the dumbest thing you’ve ever done?</item>
+		<item >Where did you grow up?</item>
+		<item >What’s the one place you want to visit on vacation?</item>
+		<item >What do you do when you aren’t working?</item>
+		<item >What did you do last weekend?</item>
+		<item >What type of work are you in?  Why did you choose that career path?</item>
+    </string-array>
+    
+    <string-array name="travelStartersArray">
+        <item >What\’s your ideal vacation length?</item>
+    	<item >Where was the last place you went on vacation?</item>
+		<item >Where do you plan on going for your next vacation?</item>
+		<item >If you could live anywhere in the world, where would it be?</item>
+		<item >What countries have you traveled to?</item>
+		<item >Excuse me, I\'ll bet you\'re glad you only brought the one bag?</item>
+		<item >Can you believe it cost me 8 dollars for this bottle of water?</item>
+		<item >Are all those yours?</item>
+		<item >I wish I had worn sandals instead.</item>
+		<item >Who\'s winning the game?</item>
+		<item >Are you enjoying that book?</item>
+		<item >Do your children travel well?</item>
+    </string-array>
+        
+    <string-array name="workStartersArray">
+		<item >What\'s the first thing you do after work?</item>
+		<item >Where do you go after work?</item>
+		<item >What do you do for a living?</item>
+		<item >What is your dream job?</item>
+		<item >If you had $10 million, would you still be working?</item>
+		<item >What was your least favorite job that you\'ve ever had?</item>
+		<item >Have you ever been fired?</item>
+		<item >Hi, have you been here before?</item>
+		<item >Did you have to travel far?</item>
+		<item >Where do you work? How long have you worked there?</item>
+		<item >How was your day?</item>
+		<item >Do you know many people here?</item>
+		<item >Give a personal testimonial about them, their work, their business.</item>
+		<item >Compliment them on something they’ve said, done, or achieved.</item>
+		<item >Mention them and their product/service to others in your social network.</item>
+		<item >Send them some information on one of their hobbies if you saw mention of it in an article.</item>
+		<item >Who is your favorite athlete?</item>
+		<item >What is your favorite sports team?</item>
+		<item >Do you play any sports?</item>
+    </string-array> 
+    
+</resources>

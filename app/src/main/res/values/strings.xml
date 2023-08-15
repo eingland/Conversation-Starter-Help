@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="generate">Random</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="share">Share</string>
+    <string name="blank"/>
+    <string name="favorites">Favorites</string>
+    <string name="delete">Delete</string>
+    <string name="add_favorite">Toggle Favorite</string>
+    <string name="menu_search">Search</string>
+    <string name="empty">Press the favorite button when viewing a Conversation Starter and it will show up here</string>
+    <string name="share_subject">What do you think of this Conversation Starter?</string>
+    <string name="search_hint">Search Conversation Starters</string>
+    <string name="selected_count">selected</string>
+
+    <string name="admob_pubId">ca-app-pub-2892631576067988/4552573951</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string-array name="navigation_drawer_items">
+        <item >Everything</item>
+        <item >Favorites</item>
+        <item >Thoughtful</item>
+        <item >Education</item>
+        <item >Fun Facts</item>
+        <item >Funny</item>
+        <item >General</item>
+        <item >Party</item>
+        <item >Relationships</item>
+        <item >Travel</item>
+        <item >Workplace</item>
+    </string-array>
+
+
+</resources>

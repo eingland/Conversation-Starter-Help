@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:support="http://schemas.android.com/apk/res-auto">
+    
+	<item android:id="@+id/menu_share"
+          android:title="@string/share"
+          android:icon="@drawable/ic_action_share"
+          support:showAsAction="ifRoom"
+          support:actionProviderClass="android.support.v7.widget.ShareActionProvider" />
+	    
+	<item android:id="@+id/menu_favorite"
+          android:title="@string/add_favorite"
+          android:icon="@drawable/ic_action_favorite_outline"
+          support:showAsAction="ifRoom" />
+
+    <!--<item android:id="@+id/menu_search"
+          android:title="@string/menu_search"
+          android:icon="@drawable/ic_action_search"
+          support:showAsAction="ifRoom" />-->
+
+</menu>

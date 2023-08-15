@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="CustomAppTheme" parent="Theme.AppCompat">
+        <!-- customize the color palette -->
+        <item name="colorPrimary">@color/primaryColor</item>
+        <item name="colorPrimaryDark">@color/primaryColorDark</item>
+        <item name="colorAccent">@color/accent</item>
+        <!-- disable window title -->
+        <item name="windowNoTitle">true</item>
+        <!-- disable window actionbar -->
+        <item name="windowActionBar">false</item>
+
+        <item name="windowActionModeOverlay">true</item>
+
+        <item name="drawerArrowStyle">@style/DrawerArrowStyle</item>
+    </style>
+
+    <!--styling color for arrow-->
+    <style name="DrawerArrowStyle" parent="Widget.AppCompat.DrawerArrowToggle">
+        <item name="spinBars">true</item>
+        <item name="color">@android:color/white</item>
+    </style>
+
+    <!--style for bottom button compatibility api 9-->
+    <style name="ButtonStyle">
+        <!--<item name="android:textColor">@android:color/white</item>
+        <item name="android:background">@color/primaryColor</item>-->
+        <item name="android:minHeight">?attr/actionBarSize</item>
+        <item name="android:textAppearance">@android:style/TextAppearance.Medium</item>
+    </style>
+
+    <style name="Divider">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">1dp</item>
+        <item name="android:background">?android:attr/listDivider</item>
+    </style>
+
+</resources>

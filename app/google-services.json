@@ -1,0 +1,89 @@
+{
+  "project_info": {
+    "project_number": "941913653615",
+    "firebase_url": "https://admob-app-id-3075840752.firebaseio.com",
+    "project_id": "admob-app-id-3075840752",
+    "storage_bucket": "admob-app-id-3075840752.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941913653615:android:611615c15e275b69",
+        "android_client_info": {
+          "package_name": "com.ericingland.conversationstarterhelp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "941913653615-1tcc62cdktuim1ek8d38ctipqodtrcdf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ericingland.conversationstarterhelp",
+            "certificate_hash": "e8947b1d5f92e2e9b82518773da45dac47f39f43"
+          }
+        },
+        {
+          "client_id": "941913653615-ev3r7gt898en67qlbu4pkahdd0599abh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAuEUgpq-x6ThREmFOsmxBIcSG9vv6MvY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941913653615:android:00db191eb638ca44",
+        "android_client_info": {
+          "package_name": "com.ericingland.conversationstarterhelp.pro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "941913653615-99e0ik6sdiq940vp6pd67r9m96gu0jlb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ericingland.conversationstarterhelp.pro",
+            "certificate_hash": "e8947b1d5f92e2e9b82518773da45dac47f39f43"
+          }
+        },
+        {
+          "client_id": "941913653615-ev3r7gt898en67qlbu4pkahdd0599abh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAuEUgpq-x6ThREmFOsmxBIcSG9vv6MvY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
